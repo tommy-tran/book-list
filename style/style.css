@@ -1,0 +1,25 @@
+.container {
+    background-color: #b7c4b0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.book-title {
+    text-align: center;
+    margin: 5%;
+}
+
+.book-title h5 {
+    font-size: 40px;
+}
+
+.list-group {
+    text-align: center;
+    display: inline-block;
+    margin: 5% 10%;
+    padding-bottom: 10%;
+}
+
+.book-details {
+    text-align: center;
+    padding: 5% 10%;
+}
